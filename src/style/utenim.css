@@ -1,0 +1,54 @@
+.utenim__wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.utenim span {
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    text-align: center;
+    color: #000;
+    margin-left: 100px;
+    margin-bottom: 8px;
+}
+
+.utenim h4 {
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 107%;
+    text-align: left;
+    color: #000;    
+    margin-left: 100px;
+    margin-bottom: 16px;
+}
+
+.utenim p {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 170%;
+    color: #000;
+    margin-left: 100px;
+    margin-bottom: 22px;
+}
+
+.utenim a {
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+    text-align: center;
+    color: #000;
+    margin-left: 100px;
+
+}
+.utenim_img img {
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    width: 577px;
+    height: 691px;
+}

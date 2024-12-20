@@ -1,0 +1,39 @@
+.ingredients h2 {
+    margin-top: 139px;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 80%;
+    text-align: center;
+    color: #000;
+    margin-bottom: 46px;
+}
+
+.ingredients p {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 170%;
+    text-align: center;
+    color: #000;
+    width: 718px;
+    margin: 0 auto;
+    margin-bottom: 16px;
+}
+
+.ingredients h5 {
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+    text-align: center;
+    color: #bb6b1e;
+    margin-bottom: 45px;
+}
+
+.ingredients__wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 80px;
+}

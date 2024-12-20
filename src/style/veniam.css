@@ -1,0 +1,40 @@
+.veniam h4 {
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    text-align: center;
+    color: #fff;
+    padding-top: 118px;
+    margin-bottom: 35px;
+}
+
+
+.veniam h2 {
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 100%;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 30px;
+
+}
+
+.veniam h5 {
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+    text-align: center;
+    color: #fff;
+}
+
+.veniam {
+    background-image: url('../image/Veniam.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 123px;
+}
