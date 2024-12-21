@@ -12,7 +12,7 @@ function HomeHero() {
             <span>New arrival</span>
             <h1> Lorem ipsum 
             dolor sit amet</h1>
-            <a href="">Shop new</a>
+            <a href="#!">Shop new</a>
           </div>
         </div>
         </div>
